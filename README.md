@@ -1,7 +1,9 @@
 ✅ Task 7: Identify and Remove Suspicious Browser Extensions
-User: [Your Name]
+
 Date: 2025-06-05
+
 Operating System: Linux
+
 Browser: Chrome (via Brave)
 
 🔍 Extensions Reviewed
