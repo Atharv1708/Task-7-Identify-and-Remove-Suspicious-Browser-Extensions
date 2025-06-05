@@ -6,6 +6,7 @@ Browser: Chrome (via Brave)
 
 🔍 Extensions Reviewed
 Wappalyzer – Technology Profiler – ✅ Safe – Kept – Trusted developer, useful for analyzing website tech; needs access to webpage data, which is normal for its function.
+
 MSN + Bing for Chrome – ⚠️ Suspicious – Removed – Installed unintentionally; redirects to Bing/MSN and resets homepage/search; mixed reviews, possibly bundled with other software.
 
 
