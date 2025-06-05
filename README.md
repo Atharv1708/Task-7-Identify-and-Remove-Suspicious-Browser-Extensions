@@ -1,4 +1,5 @@
- Task 7: Identify and Remove Suspicious Browser Extensions
+✅ Task 7: Identify and Remove Suspicious Browser Extensions
+User: [Your Name]
 Date: 2025-06-05
 Operating System: Linux
 Browser: Chrome (via Brave)
@@ -32,14 +33,14 @@ Verified removal and restarted Brave
 
 Confirmed that homepage and search engine were not hijacked after removal
 
- Post-Removal Observations
+📈 Post-Removal Observations
 No more auto-redirects to MSN/Bing
 
 Browser settings (homepage, search) remain unchanged
 
 Performance: Slight improvement in startup time and fewer background processes
 
-What I Learned
+🧠 What I Learned
 Some browser extensions are bundled silently or installed via popups
 
 Even large-brand extensions (like Microsoft’s) can act intrusively
@@ -48,10 +49,9 @@ Reviewing permissions and removing unused tools helps keep the browser fast and 
 
 Trusted tools like Wappalyzer are okay to keep if they serve a clear, safe function
 
-Summary
+📌 Summary
 Extensions Kept: Wappalyzer
 
 Extensions Removed: MSN + Bing for Chrome
 
 Outcome: Browser is cleaner, more private, and slightly faster
-
